@@ -1,0 +1,214 @@
+#EXTM3U
+
+#EXTINF:-1,PTV
+https://stream-03.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwFk33qXi50nsbuWKB5Wq1_8)/dm/3/x5cr6b9/d/live-2.m3u8
+
+#EXTINF:-1,CNN Philippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+
+#EXTINF:-1,UNTV
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
+
+#EXTINF:-1,TV 5
+http://stream3.news5.ph/n5e/tv5/playlist.m3u8
+
+#EXTINF:-1,5 Plus
+http://stream3.news5.ph/n5e/5plus/playlist.m3u8
+
+#EXTINF:-1,GMA Pinoy TV
+http://164.40.161.43:10011
+
+#EXTINF:-1,ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+
+#EXTINF:-1,ITV 2
+http://51.52.156.22:8888/http/005
+
+#EXTINF:-1,ITV 3
+http://51.52.156.22:8888/http/006
+ 
+#EXTINF:-1,CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+
+#EXTINF:-1,Fight Sports
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1,Fox Sports 1
+https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
+
+#EXTINF:-1,Fox Sports 2
+https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
+
+#EXTINF:-1,Fox Sports 3
+https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports3.m3u8
+
+#EXTINF:-1,ESPN
+http://npse.brots.world/espn2.m3u8
+
+#EXTINF:-1,BoxNation
+http://claro2-pi-dns.herokuapp.com/master.php?id=186&f=.m3u8
+
+#EXTINF:-1,NBA
+http://45.92.69.76:8000/play/a05v
+
+#EXTINF:-1,ATP Tennis TV
+http://203.154.243.89:11739
+
+#EXTINF:-1,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1,Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1,Tennis Channel+ 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+
+#EXTINF:-1,Fightbox HD
+https://1610186124.rsc.cdn77.org/1610186124/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,LaLiga TV
+http://claro2-pi-dns.herokuapp.com/master.php?id=57&f=.m3u8
+
+#EXTINF:-1,Eurosport 1
+http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Eurosport 2
+http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="Sports",Arena Sports 1
+http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport2.rs.png" group-title="Sports",Arena Sports 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport3.rs.png" group-title="Sports",Arena Sports 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport4.rs.png" group-title="Sports",Arena Sports 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport5.rs.png" group-title="Sports",Arena Sports 5
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
+https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
+https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
+
+#EXTINF:-1,Fox News
+https://1161275585.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,AlJazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
+
+#EXTINF:-1,BBC News
+http://51.52.156.22:8888/http/004
+
+#EXTINF:-1,NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1,RT
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+
+#EXTINF:-1,AXN
+http://210.210.155.66/h/h141/01.m3u8
+
+#EXTINF:-1,Bloomberg
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+
+#EXTINF:-1,Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1,National Geographic
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1,Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1,Animal Planet
+http://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=10-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1,BBC Earth
+http://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
+
+#EXTINF:-1,NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1,Star Movies
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
+#EXTINF:-1,HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+
+#EXTINF:-1,HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1,HBO Signature
+http://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+
+#EXTINF:-1,Cinemax
+http://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+
+#EXTINF:-1,Discovery
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1,Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+
+#EXTINF:-1,History
+http://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
+
+#EXTINF:-1,FX
+http://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
+
+#EXTINF:-1,Warner TV
+http://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
+
+#EXTINF:-1,Hits
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1,Thrill
+http://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
+
+#EXTINF:-1,Crime+Investigation
+http://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1,Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+
+#EXTINF:-1,Fox Crime
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1,Fox Life
+https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
+
+#EXTINF:-1,Sony One
+http://210.210.155.66/h/h143/01.m3u8
+
+#EXTINF:-1,Outdoor Channel
+https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=1
+
+#EXTINF:-1,TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1,Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+
+#EXTINF:-1,Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Disney XD
+http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=10-Disney_XD-mp4a_96000_eng=5.m3u8
+
+#EXTINF:-1,Nickelodeon
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+
+#EXTINF:-1,Fox
+http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1,eGG
+http://210.210.155.66/h/h22/01.m3u8
