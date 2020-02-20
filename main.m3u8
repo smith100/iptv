@@ -51,6 +51,12 @@ http://claro2-pi-dns.herokuapp.com/master.php?id=186&f=.m3u8
 #EXTINF:-1,NBA
 http://45.92.69.76:8000/play/a05v
 
+#EXTINF:-1,UFC
+http://78.141.211.61:4000/8
+
+#EXTINF:-1,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1,ATP Tennis TV
 http://203.154.243.89:11739
 
@@ -138,8 +144,14 @@ http://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 #EXTINF:-1,NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 
+#EXTINF:-1,My Cinema
+http://210.210.155.69/s/s31/S4/mnf.m3u8
+
 #EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
+#EXTINF:-1,First Movies
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1,HBO
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
@@ -180,6 +192,15 @@ http://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigatio
 #EXTINF:-1,Star World
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
+#EXTINF:-1,Blue Ant Extreme
+http://45.126.83.51:80/session/b74c136c-7251-11e9-9783-83b5ae4d75de/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1,K Drama
+http://45.126.83.51/qwr9ew/s/s42/index.m3u8
+
+#EXTINF:-1,Sony Gem
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
+
 #EXTINF:-1,Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
@@ -194,6 +215,9 @@ https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=1
 
 #EXTINF:-1,TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1,Home and Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 
 #EXTINF:-1,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
