@@ -108,6 +108,9 @@ https://1161275585.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AlJazeera
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 
+#EXTINF:-1,Arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:-1,BBC News
 http://51.52.156.22:8888/http/004
 
@@ -125,6 +128,9 @@ http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/
 
 #EXTINF:-1,Bloomberg Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1,HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 
 #EXTINF:-1,National Geographic
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
@@ -154,7 +160,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1,HBO
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+https://delivery.macan.live/stream/hbo/index.m3u8?token=MfxrKeJ8
 
 #EXTINF:-1,HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
@@ -162,11 +168,14 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBO
 #EXTINF:-1,HBO Signature
 http://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
+#EXTINF:-1,HBO Family
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=MfxrKeJ8
+
 #EXTINF:-1,Cinemax
 http://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 
 #EXTINF:-1,Discovery
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 
 #EXTINF:-1,Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
@@ -174,11 +183,14 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1,History
 http://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 
+#EXTINF:-1,Kix
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
+
 #EXTINF:-1,FX
 http://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 
 #EXTINF:-1,Warner TV
-http://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
+http://203.154.243.89:11205
 
 #EXTINF:-1,Hits
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
@@ -192,11 +204,20 @@ http://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigatio
 #EXTINF:-1,Star World
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
+#EXTINF:-1,Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1,Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1,Blue Ant Extreme
 http://45.126.83.51:80/session/b74c136c-7251-11e9-9783-83b5ae4d75de/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1,K Drama
 http://45.126.83.51/qwr9ew/s/s42/index.m3u8
+
+#EXTINF:-1,K Plus
+http://210.210.155.66/h/h08/01.m3u8
 
 #EXTINF:-1,Sony Gem
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
@@ -225,6 +246,9 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 #EXTINF:-1,Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
+
 #EXTINF:-1,Disney XD
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=10-Disney_XD-mp4a_96000_eng=5.m3u8
 
@@ -236,3 +260,12 @@ http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
 
 #EXTINF:-1,eGG
 http://210.210.155.66/h/h22/01.m3u8
+
+#EXTINF:-1,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1,Channel V
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
+
+#EXTINF:-1,MTV+
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
