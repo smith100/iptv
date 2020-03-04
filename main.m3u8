@@ -172,7 +172,7 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBO
 http://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 #EXTINF:-1,HBO Family
-https://delivery.macan.live/stream/hbo_family/index.m3u8?token=MfxrKeJ8
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/667.m3u8
 
 #EXTINF:-1,Cinemax
 http://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
