@@ -9,7 +9,7 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1,UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
 
-#EXTINF:-1,TV 5
+#EXTINF:-1,TV 5 Philippines
 http://stream3.news5.ph/n5e/tv5/playlist.m3u8
 
 #EXTINF:-1,5 Plus
@@ -17,6 +17,9 @@ http://stream3.news5.ph/n5e/5plus/playlist.m3u8
 
 #EXTINF:-1,GMA Pinoy TV
 http://164.40.161.43:10011
+
+#EXTINF:-1,UNTV
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
 
 #EXTINF:-1,ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
