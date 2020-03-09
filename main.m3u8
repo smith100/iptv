@@ -84,6 +84,9 @@ http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Eurosport 2
 http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Tennis Channel
+http://srvnmtx.top:80/cristiane/cristiane/47682
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="Sports",Arena Sports 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
 
@@ -165,6 +168,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:-1,HBO
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 
+#EXTINF:-1,HBO 2
+http://185.180.12.90:8080/HBO2/index.m3u8?token=test
+
 #EXTINF:-1,HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
 
@@ -229,7 +235,7 @@ http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1,Fox Life
-https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
+http://185.180.12.90:8080/FOXLIFE/index.m3u8?token=test
 
 #EXTINF:-1,Sony One
 http://210.210.155.66/h/h143/01.m3u8
@@ -251,6 +257,9 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 
 #EXTINF:-1,Disney XD
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=10-Disney_XD-mp4a_96000_eng=5.m3u8
