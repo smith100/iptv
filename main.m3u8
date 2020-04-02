@@ -138,14 +138,23 @@ https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-
 #EXTINF:-1,HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 
-#EXTINF:-1,National Geographic
+#EXTINF:-1,National Geographic HD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1,National Geographic SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
+
+#EXTINF:-1,Nat Geo Wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
-#EXTINF:-1,Nat Geo People
+#EXTINF:-1,Nat Geo Wild SD
+http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8
+
+#EXTINF:-1,Nat Geo People HD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1,Nat Geo People SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
 
 #EXTINF:-1,Animal Planet
 http://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=10-mp4a_98800_eng=3.m3u8
