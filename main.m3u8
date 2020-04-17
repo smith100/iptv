@@ -193,10 +193,13 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/667.m3u8
 http://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 
 #EXTINF:-1,Discovery
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+
+#EXTINF:-1,Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,History
 http://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
